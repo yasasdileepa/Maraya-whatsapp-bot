@@ -2,7 +2,7 @@
   "name": "Maraya",
   "version": "0.10.0",
   "description": "Maraya project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./whatsAsena/bot.js",
+  "main": "./Maraya-whatsapp-bot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
