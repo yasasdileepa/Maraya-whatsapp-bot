@@ -1,69 +1,16 @@
-[No more support.](https://t.me/fusufs/826)
+###     මාරයා bot 🇱🇰 සිංහල බොටෙක් අපේ ම බොටා 
+ඔයාලත් හදලා බලන්න පහල අපෙ ශපොට් group එක තියෙනවා
+[![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)](https://github.com/yasasdileepa/slDILEEPA)
 
-----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72194&size=15&lines=Hi+im+Maraya+whatsapp+bot+coded+by+yasas+dileepa;You+can+made+Maraya+whatsapp+bot;And+funy+momen;Thanks+to+yasas+dileepa;And+adisha+lakshitha+%2C+KG+amda+%2C+MR+dina+and+Black+Amda;%E2%9D%A4%EF%B8%8F%F0%9F%A4%B4%E2%9D%A4%EF%B8%8F++;%F0%9F%A4%B4King+Maraya%F0%9F%A4%B4)](https://git.io/typing-svg)
+  <img src="https://i.ibb.co/99Nfwfy/a62902c0458a23d705492bb701371a43-cool-wallpapers-for-iphone-wallpaper-for-iphone.jpg" width="300" height="300">      
+  <h1>maraya 😼</h1>  
+       | © | MADE BY DILEEPA |
 
-<div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena</h1>
-</div>
-<p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
-    <br>
-        Reserved |
-        Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-    <br>
-</p>
-
-----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
-
-## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
-
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Quiec/WhatsAsena/wiki)
-
-> [Video Guide](https://www.youtube.com/watch?v=029KmetlKPU)
-
-> [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
-
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
-
-## Setup
-### Very Simple Method
-`We are working on it...`
-
-### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
-
-### The Hard Method
-```js
-git clone https://github.com/Quiec/WhatsAsena.git
-cd WhatsAsena
-npm i
-# Config.env oluşturun ve düzenleyin. #
-# Config.env create and edit. #
-node bot.js
-```
-
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
-
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-### What does Asena mean?
-[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
-
+## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="https://yasasdileepa.github.io/Maraya/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
+    
+ [![GitHub Actions Demo](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml)
+   
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
@@ -71,22 +18,38 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
+## 📢 Guide
+Click Whatsapp logo to Join Support Group 👇
+<br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IgFh0yQPaHU9tv1lrRaqLF)
+  <div align="center">
+    
+	
+  </div>
+  
+  ## 🐱‍👤මාරයා bot විශේෂාංග
+🐱‍👤මාරයා bot විශේෂාංග මෙන්න.
+<a href="https://gist.github.com/yasasdileepa/7a3bc29b084c3347006a8a69b532287a">
+    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
+### HOW TO MADE THIS BOT CLICK THIS LOGO 👇
+[![Chethana_Broh-TeenuhX](https://github.com/yasasdileepa/maraya/blob/main/IMG-20211030-WA0010.png)](https://youtu.be/DjyQX8KJGKg)
 
-## Developers
+  </a>
+  ##Setup
+<div align="center">
+   🔌කරුනාවෙන් සලකන්න ඔබ සැම්සුන් පොන් බාවිත කරන්නෙක් නම් ඔබ සැම්සුන් ඉන්ටනෙට් එකෙන් ස්කැන් කරන්න එවිට ස්කැන් වෙ
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://yusufusta.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
----|---|---|---|---
-[Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
-Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
+  ### Simple Method
+### පලමු පියවර QR කෙතය සදහා 👇🤴
+[![Run on Repl.it](https://raw.githubusercontent.com/Sew01RaviduManoj01KingAndQueen/QueenSew/master/resources/gif/qr-scan.gif)](https://replit.com/@yasasdileepa/MARAYA-1?v=1)
+### දෙවන පියවර Bot deploy කිරිමට 👇       
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/maraya)
+     </div>
+  ### very simple method 
+ ```we are working on it```
+### maraya team
+<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/2dw0THr/Screenshot-20211031-110753-Whats-App.jpg" width="100" height="100" alt="Yasas dilipa"></a></td><td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td><td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(co-host)</td> <td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/Cscpfg5/Screenshot-20211120-110016-Chrome.jpg" width="100" height="100" alt="dinuka"></a></td><td><a href="httsp://github.com/kgamdaofficial">Dinuka</a></br>(ideas)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/b2F6TsS/Screenshot-20211120-110644-Whats-App-Business.jpg"width="100"height="100"alt="black wampare"></a></td><td><a href="httsp://github.com/kgamdaofficial">black wampare </a></br>(meneger)</td>       
 
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- Translators
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+												
+```මන් යසස් දිලිප මන් සහා මගෙ ටිම් එකට ඔයාලාට මෙ හදුන්වා දි තිබෙන්නෙ මාරයා whatsapp bot ය මෙ බොට් install කර ගැනිම සදහා අන්අය යම් කිසි බොයක් දක්වයි මෙ බොට් සදහා කිසි බියක් නොදක්වන්න මෙය සාමකාමි බොටෙක් කියා කාරුනික වන්න``` 
