@@ -1,15 +1,9 @@
 FROM fusuf/whatsasena:latest
-
-RUN git clone $GITHUB_REPO_URL /root/WhatsAsena
-WORKDIR /root/WhatsAsena/
+##Maraya
+RUN git clone https://github.com/yasasdileepa/Maraya-whatsapp-bot /root/Maraya
+WORKDIR /root/Maraya/
 ENV TZ=Europe/Istanbul
-RUN npm install supervisor -g
-RUN apk --no-cache --virtual build-dependencies add \
-    python \
-    make \
-    g++ \
-    && npm install \
-    && apk del build-dependencies
-RUN npm install
+RUN yarn add supervisor -g
+RUN yarn install --no-audit
 
 CMD ["node", "bot.js"]
