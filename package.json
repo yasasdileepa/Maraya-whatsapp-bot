@@ -1,24 +1,24 @@
 {
-  "name": "whatsasena",
+  "name": "Maraya",
   "version": "0.10.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "Maraya project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./whatsAsena/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quiec/WhatsAsena.git"
+    "url": "git+https://github.com/yasasdileepa/Maraya-whatsapp-bot.git"
   },
   "keywords": [
     "whatsapp"
   ],
-  "author": "AsenaDev / Yusuf Usta",
+  "author": "Dinuka Himsara / Yasas dileepa",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Quiec/WhatsAsena/issues"
+    "url": "https://github.com/yasasdileepa/Maraya-whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/Quiec/WhatsAsena#readme",
+  "homepage": "https://github.com/yasasdileepa/Maraya-whatsapp-bot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
